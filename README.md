@@ -9,4 +9,4 @@ I thought [this article](https://www.infoworld.com/article/3639050/complexity-is
 ## Main Takeaway
 What I found the most interesting in this article was the even though technologial advancements are beneficial in a way, from a technical asepect, it multiplies complexity by several times by all the number of tools available for web developers to use.
 
-# 1234567
+### Brand New Day. 
